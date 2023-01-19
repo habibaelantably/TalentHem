@@ -1,0 +1,6 @@
+package com.tapri.app.tapri
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
